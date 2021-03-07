@@ -1,7 +1,7 @@
 (function() {
 	let POSInfoStorage = [
 		{
-			posId: 'some-staking-provider-id',
+			posId: 'some-staking-provi-id',
 			webSite: 'https://somePOSWebSite.com',
 			media: {                            
                 facebook: 'https://www.facebook.com/some-staking-provider',
